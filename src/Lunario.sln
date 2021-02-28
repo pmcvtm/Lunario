@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Lunario.App", "Lunario.App\Lunario.App.fsproj", "{8A1183C2-EB7E-43AA-8DB8-A6BA3016FF8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1183C2-EB7E-43AA-8DB8-A6BA3016FF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1183C2-EB7E-43AA-8DB8-A6BA3016FF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1183C2-EB7E-43AA-8DB8-A6BA3016FF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1183C2-EB7E-43AA-8DB8-A6BA3016FF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
